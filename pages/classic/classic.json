@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "v-epsoide": "/components/episode/index",
+    "v-like": "/components/like/index",
+    "v-movie": "/components/classic/movie/index",
+    "v-essay": "/components/classic/essay/index",
+    "v-music": "/components/classic/music/index",
+    "v-navi": "/components/navi/index",
+    "v-button": "/components/image-button/index"
+  }
+}
